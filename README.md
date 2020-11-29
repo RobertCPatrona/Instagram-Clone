@@ -1,6 +1,6 @@
 ## PHP Laravel - App for posting and viewing pictures
 
-The App is made with PHP Artisan. The app will be extended in the future and more features will be added. The current features are:
+The App is made with PHP Artisan. The database is made using SQLite. The app will be extended in the future and more features will be added. The current features are:
 
 - Login and Register users.
 - Follow users and see their posts on the home page.
@@ -21,7 +21,7 @@ Make sure `PHP`, `nodeJS` and `composer` are installed, then navigate to the app
 
 `php artisan serve`
 
-The app will launch on `http://127.0.0.1:8000`.
+The app will launch on `http://127.0.0.1:8000`. To interact with the database, use `php artisan tinker`.
 
 ### Some important routes:
 

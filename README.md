@@ -9,7 +9,7 @@ The App is made with PHP Artisan. The app will be extended in the future and mor
 
 ## How to Run
 
-Requires `PHP`, `nodeJS` and `composer` to be installed, then navigate to the app directory. 
+Make sure `PHP`, `nodeJS` and `composer` are installed, then navigate to the app directory. 
 
 ### Run the following when first staring the app:
 

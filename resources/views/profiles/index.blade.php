@@ -36,7 +36,7 @@
             </div>
             <div class="pt-4 font-weight-bold">{{ $user->profile->title }}</div>
             <div>{{ $user->profile->description }}</div>
-            <div><a href="#">{{ $user->profile->url }}</a></div>
+            <div><a href="{{ $user->profile->url }}" target="_blank">{{ $user->profile->url }}</a></div>
         </div>
     </div>
 

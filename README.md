@@ -3,13 +3,13 @@
 The App is made with PHP Artisan. The app will be extended in the future and more features will be added. The current features are:
 
 - Login and Register users.
-- Follow users and see their posts on teh home page.
+- Follow users and see their posts on the home page.
 - Edit profile page and see your posts.
 - Create posts. 
 
 ## How to Run
 
-Requires `PHP`, `nodeJS` and `composer` to be installed.
+Requires `PHP`, `nodeJS` and `composer` to be installed. Navigate to the app directory. 
 
 ### Run the following when first staring the app:
 
